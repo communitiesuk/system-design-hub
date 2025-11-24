@@ -1,11 +1,13 @@
 # System Design Hub
 ## About the System Design Hub
 This hub is an archive of work done by the System Design team at the Ministry of Housing Communities and Local Government (MHCLG). The team includes designers, researchers and analysts. We bring user-centred design and systems thinking skills to complex building safety challenges. Our work involves doing projects with policy teams and strategic systems thinking.\ 
+
 We publish reports and outputs from our work so that others can learn about the building safety and quality system, our research participants can see the impact of our work, and similar teams can learn from our approaches.\
-No single person, team or report can cover every aspect of the system, so our work offers snapshots in time. Our reports do not represent official government policy but instead document what we've heard from the at the heart of the building safety and quality system.
+
+No single person, team or report can cover every aspect of the system, so our work offers snapshots in time. Our reports do not represent official government policy but instead document what we've heard from the people at the heart of the building safety and quality system.
 ## Find reports and outputs
 ### Housing Safety and Quality System Mapping
-We were asked to mapp the system of people and things that relate to the safety, quality and sustainability of residential buildings, with the aims of:
+We were asked to map the system of people and things that relate to the safety, quality and sustainability of residential buildings, with the aims of:
 * Visualising a clear view of the as-is system ​
 * Delivering insights about the reality of that landscape 
 * Identifying gaps, challenges and opportunities for further change​
@@ -14,11 +16,11 @@ We did this through developing an understanding of the people in the system, the
 
 | Output  | Description |
 | ------------- | ------------- |
-| Final report  | Content Cell  |
-| User research report  | Content Cell  |
-| System overview map  | Content Cell  |
-| Map of who regulates the system  | Content Cell  |
-| Map of how the system is regulated  | Content Cell  |
-| Map of housing types  | Content Cell  |
-| Map of roles involved in multi-dwelling buildings | Content Cell  |
-| Map of factors influencing the maintenance of homes  | Content Cell  |
+| Final report  | Documents the 5 key system stories we identified during the project and our research. |
+| User research report  | To be read alongside the final report, the research report offers more detail on our research approach as well as role specific insights and profiles.  |
+| System overview map  | Shows the main types of actors across the system and their relationships.  |
+| Map of who regulates the system  | Shows the different regulators (government, private sector, redress, associations and advisory bodies) involved in maintaining building safety and quality from planning through to occupation and remediation.  |
+| Map of how the system is regulated  | Shows some of the regulated activities within the system through the lifecycle of a building.|
+| Map of housing types  | Shows the different buildings people live in and their scale across England. |
+| Map of roles involved in multi-occupancy buildings | Shows the different people who live in and manage some multi-occupancy buildings e.g. blocks of flats, and their scale in England.  |
+| Map of factors influencing the maintenance of homes  | Shows the factors that influence whether a building’s safety, quality and sustainability are maintained including variations highlighting different home ownership and tenancy structures, and the impact this has on the roles, responsibilities and difficulties in maintaining residential properties.  |
