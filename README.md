@@ -12,9 +12,6 @@ We mapped the system of people and things that relate to the safety, quality and
 * Delivering insights about the reality of that landscape 
 * Identifying gaps, challenges and opportunities for further change​
 
-<details>
-
-<summary>See the reports and maps from our housing safety and quality system mapping</summary>
 
 | Output  | Description |
 | ------------- | ------------- |
@@ -27,4 +24,3 @@ We mapped the system of people and things that relate to the safety, quality and
 | Map of roles involved in multi-occupancy buildings | Shows the different people who live in and manage some multi-occupancy buildings e.g. blocks of flats, and their scale in England.  |
 | Map of factors influencing the maintenance of homes  | Shows the factors that influence whether a building’s safety, quality and sustainability are maintained including variations highlighting different home ownership and tenancy structures, and the impact this has on the roles, responsibilities and difficulties in maintaining residential properties.  |
 
-</details>
