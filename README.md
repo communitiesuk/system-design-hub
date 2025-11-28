@@ -16,8 +16,8 @@ We mapped the system of people and things that relate to the safety, quality and
 
 | Output  | Description |
 | ------------- | ------------- |
-| Final report  | Documents the 5 key system stories we identified during the project and our research. |
-| User research report  | To be read alongside the final report, the research report offers more detail on our research approach as well as role specific insights and profiles.  |
+| [Final report](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20Housing%20Safety%20and%20Quality%20System%20Final%20Report.pdf)  | Documents the 5 key system stories we identified during the project and our research. |
+| [User research report](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20Housing%20Safety%20and%20Quality%20System%20User%20Research%20Report.pdf)  | To be read alongside the final report, the research report offers more detail on our research approach as well as role specific insights and profiles.  |
 | [System overview map](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20Housing%20Safety%20and%20Quality%20Overview%20Maps.pdf)  | Shows the main types of actors across the system and their relationships.  |
 | Map of who regulates the system  | Shows the different regulators (government, private sector, redress, associations and advisory bodies) involved in maintaining building safety and quality from planning through to occupation and remediation.  |
 | [Map of how the system is regulated](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20How%20Housing%20Safety%20and%20Quality%20are%20Regulated%20Map.pdf)  | Shows some of the regulated activities within the system through the lifecycle of a building.|
