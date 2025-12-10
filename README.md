@@ -25,3 +25,13 @@ We mapped the system of people and things that relate to the safety, quality and
 | [Map of roles involved in multi-occupancy buildings](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20Roles%20in%20Multi-Occupancy%20Buildings.pdf) | Shows the different people who live in and manage some multi-occupancy buildings e.g. blocks of flats, and their scale in England.  |
 | [Map of factors influencing the maintenance of homes](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20System%20Design%20Maintaining%20Housing%20Safety%20and%20Quality%20Maps.pdf)  | Shows the factors that influence whether a building’s safety, quality and sustainability are maintained including variations highlighting different home ownership and tenancy structures, and the impact this has on the roles, responsibilities and difficulties in maintaining residential properties.  |
 
+### Resident experiences of housing safety and quality 
+We built an evidence base and tools for policy teams around resident experiences, needs and mental models around building safety, quality and its regulation. 
+We looked to understand: 
+* Current resident experiences of safety, quality and regulation of homes, particularly around resolving issues 
+* Residents levels of trust, confidence and consumer power in the built environment, to consider how the regulatory environment might need to change to support better outcomes for residents
+These outputs have been used to support and inform policymaking on the future of regulation.
+
+| Output  | Description |
+| ------------- | ------------- |
+| [Resident experiences of housing safety and quality report](https://github.com/communitiesuk/system-design-hub/blob/main/reports/MHCLG%20Resident%20Experiences%20of%20Housing%20Safety%20and%20Quality%20Report.pdf) | Report documenting our findings from research. This report covers the regulatory context, residents’ understanding of safety and quality, resident experiences of raising issues, findings on trust, consumer power and confidence and resident relationship models. |
