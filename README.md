@@ -30,6 +30,7 @@ We built an evidence base and tools for policy teams around resident experiences
 We looked to understand: 
 * Current resident experiences of safety, quality and regulation of homes, particularly around resolving issues 
 * Residents levels of trust, confidence and consumer power in the built environment, to consider how the regulatory environment might need to change to support better outcomes for residents
+
 These outputs have been used to support and inform policymaking on the future of regulation.
 
 | Output  | Description |
